@@ -6,4 +6,4 @@ related_posts: false
 ---
 
  Dr. Jun Ji published a paper in PNAS as a co-first author, where we introduced the concept of ‘audible enclaves’ crafted by nonlinear self-bending ultrasonic beams. 
- Link to our paper: https://www.pnas.org/doi/full/10.1073/pnas.2408975122
+ Please read our paper: [https://www.pnas.org/doi/full/10.1073/pnas.2408975122](https://www.pnas.org/doi/full/10.1073/pnas.2408975122)
