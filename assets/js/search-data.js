@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-publications",
           title: "publications",
-          description: "Underscored author indicates self; `+` denotes equal contributions; `*` marks corresponding authors.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
@@ -415,6 +415,9 @@ ninja.data = [{
             },},{id: "news-congrats-to-jun-ji-on-the-receiving-of-the-joseph-and-irene-tobis-graduate-fellowship-in-acoustics-for-his-contribution-to-applying-acoustic-metamaterials-to-airborne-sound-absorption-and-loudspeaker-radiation-enhancement",
           title: 'Congrats to Jun Ji on the receiving of the Joseph and Irene Tobis...',
           description: "",
+          section: "News",},{id: "news-dr-jun-ji-published-a-paper-in-advanced-materials-technologies-as-its-back-cover-where-we-apply-acoustic-metamaterials-to-enhance-loudspeaker-radiation-please-read-our-paper-https-advanced-onlinelibrary-wiley-com-doi-full-10-1002-admt-202300834",
+          title: 'Dr. Jun Ji published a paper in Advanced Materials Technologies as its Back...',
+          description: "",
           section: "News",},{id: "news-jun-ji-has-defended-his-ph-d-dissertation",
           title: 'Jun Ji has defended his Ph.D. dissertation.',
           description: "",
@@ -425,7 +428,7 @@ ninja.data = [{
           title: 'Dr. Jun Ji published his work on phononic neural networks in Nature Electronics....',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_4/";
+              window.location.href = "/news/announcement_5/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
