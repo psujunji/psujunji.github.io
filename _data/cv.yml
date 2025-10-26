@@ -11,7 +11,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: Ph.D. in Acoustics
       institution: Penn State University, PA, US
       year: 2023
       # description:
@@ -33,7 +33,7 @@
   contents:
     - title: Postdoc asscoiate 
       institution: Virginia Tech, VA, US
-      year: 2024- now
+      year: Jan 2024- now
       # description:
       #   - Description 1.
       #   - Description 2.
@@ -43,7 +43,7 @@
       #       - Sub-description 2.
     - title: Research Scientist Intern
       institution: Facebook, Washington, US
-      year: May 2022 - Dec 2022
+      year: May - Dec 2022
       # description:
       #   - Description 1.
       #   - Description 2.
