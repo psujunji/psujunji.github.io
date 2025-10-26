@@ -61,16 +61,16 @@
 #       year: 
 #       description: No open source projects until now
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2023
-      items:
-        - psu award
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 2023
+#       items:
+#         - psu award
         
-    - year: 
-      items:
-        - 
+#     - year: 
+#       items:
+#         - 
 
 # - title: Academic Interests
 #   type: nested_list
