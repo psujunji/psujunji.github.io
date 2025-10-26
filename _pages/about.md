@@ -35,7 +35,7 @@ Email: junji [at] vt.edu
 
 [[Google Scholar]](https://scholar.google.com/citations?user=8ppUwOsAAAAJ&hl=en) [[Linkedin]](https://www.linkedin.com/in/jun-ji-891012198/) 
 
-I received Ph.D. from Penn State University in Dec 2023, and B.Eng from Jiangsu University in June 2018.
+I received [Ph.D. in Acoustics](https://www.acs.psu.edu/) from Penn State University in Dec 2023, and B.Eng from Jiangsu University in June 2018.
 
 My research during my postdoc focuses on integrated phononic circuits and their classical and quantum applications, under the supervision of Pro.[Linbo Shao](https://scholar.google.com/citations?user=GvM1YIAAAAAJ&hl=en) at [Hybrid Nanoscale Systems Research Group](https://shaogroup.ece.vt.edu).
 
