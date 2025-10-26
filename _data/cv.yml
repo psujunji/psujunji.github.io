@@ -14,19 +14,19 @@
     - title: PhD
       institution: Penn State University, PA, US
       year: 2023
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+      #   - title: Description 3.
+      #     contents:
+      #       - Sub-description 1.
+      #       - Sub-description 2.
     - title: B.Eng
       institution: Jiangsu  University, China
       year: 2018
-      description:
-        - Description 1.
-        - Description 2.
+      # description:
+      #   - Description 1.
+      #   - Description 2.
 
 - title: Experience
   type: time_table
@@ -34,32 +34,32 @@
     - title: Postdoc asscoiate 
       institution: Virginia Tech, VA, US
       year: 2024- now
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+      #   - title: Description 3.
+      #     contents:
+      #       - Sub-description 1.
+      #       - Sub-description 2.
     - title: Research Scientist Intern
       institution: Facebook, Washington, US
       year: May 2022 - Dec 2022
-      description:
-        - Description 1.
-        - Description 2.
+      # description:
+      #   - Description 1.
+      #   - Description 2.
 
-    - title: 
-      institution: 
-      year: 
+    # - title: 
+    #   institution: 
+    #   year: 
 
 
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: 
-      year: 
-      description: No open source projects until now
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: 
+#       year: 
+#       description: No open source projects until now
 
 - title: Honors and Awards
   type: time_table
@@ -72,19 +72,19 @@
       items:
         - 
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items:
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
