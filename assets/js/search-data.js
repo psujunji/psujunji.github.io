@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-cv",
           title: "cv",
-          description: "Please find my PDF file of my CV on the right.",
+          description: "Please find PDF file of my CV on the right.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -39,17 +39,10 @@ ninja.data = [{
           },
         },{id: "nav-news",
           title: "news",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/news/";
-          },
-        },{id: "nav-blog",
-          title: "blog",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/blog/";
+            window.location.href = "/news/";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -419,18 +412,21 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-congrats-to-jun-ji-on-the-receiving-of-the-joseph-and-irene-tobis-graduate-fellowship-in-acoustics-for-his-contribution-to-applying-acoustic-metamaterials-to-airborne-sound-absorption-and-loudspeaker-radiation-enhancement",
+          title: 'Congrats to Jun Ji on the receiving of the Joseph and Irene Tobis...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-jun-ji-has-defended-his-ph-d-dissertation",
+          title: 'Jun Ji has defended his Ph.D. dissertation.',
+          description: "",
+          section: "News",},{id: "news-dr-jun-ji-published-a-paper-in-pnas-as-a-co-first-author-where-we-introduced-the-concept-of-audible-enclaves-crafted-by-nonlinear-self-bending-ultrasonic-beams-link-to-our-paper-https-www-pnas-org-doi-full-10-1073-pnas-2408975122",
+          title: 'Dr. Jun Ji published a paper in PNAS as a co-first author, where...',
+          description: "",
+          section: "News",},{id: "news-dr-jun-ji-published-a-paper-in-nature-electronics-as-the-first-author",
+          title: 'Dr. Jun Ji published a paper in Nature Electronics as the first author....',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "projects-project-1",
+              window.location.href = "/news/announcement_4/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
