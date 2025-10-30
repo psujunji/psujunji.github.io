@@ -1,12 +1,12 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 4
 ---
 
- You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+ Coming soon...
 
 
