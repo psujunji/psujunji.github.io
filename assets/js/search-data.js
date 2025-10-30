@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -431,22 +431,22 @@ ninja.data = [{
               window.location.href = "/news/announcement_5/";
             },},{id: "projects-ai-hardware",
           title: 'AI Hardware',
-          description: "Synthetic-domain computing and neural networks using lithium niobate integrated nonlinear phononics",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-cavity-electro-acoustic-dynamics",
           title: 'Cavity electro-acoustic dynamics',
-          description: "using integrated lithium niobate phononic crystal resonators",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-low-loss-integrated-phononic-circuits",
           title: 'Low-loss integrated phononic circuits',
-          description: "low-phase-noise acoustic oscillators",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-metamaterial-based-acoustic-devices",
           title: 'Metamaterial-based acoustic devices',
-          description: "for audio and ultrasound applications.",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-nonlinear-and-time-modulated-acoustic-metasurfaces",
