@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Low-loss integrated phononic circuits
+description: low-phase-noise acoustic oscillators
+img: assets/img/1.jpg
 importance: 3
-category: work
+category: Microwave acoustics
 ---
 
 Every project has a beautiful feature showcase page.

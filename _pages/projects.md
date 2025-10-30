@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Research
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Our interest in Acoustics spans from Hz to GHz and covers both their physics and applications. 
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [Microwave acoustics, Audio & ultrasound]
 horizontal: false
 ---
 

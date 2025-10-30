@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: AI Hardware
+description: Synthetic-domain computing and neural networks using lithium niobate integrated nonlinear phononics
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Microwave acoustics
 related_publications: true
 ---
 
