@@ -429,8 +429,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_5/";
-            },},{id: "projects-ai-hardware",
-          title: 'AI Hardware',
+            },},{id: "projects-phononic-analog-computing-and-edge-ai",
+          title: 'Phononic Analog Computing and Edge AI',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
