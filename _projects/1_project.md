@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AI Hardware
+title: Phononic Analog Computing and Edge AI
 description: 
 img: assets/img/2025NE_Figure4.jpg
 importance: 1
@@ -9,12 +9,12 @@ related_publications: true
 ---
 
 
-### **Analog computing and neural networks using integrated nonlinear phononics**
-
 
 Analogue computing uses the physical behaviours of devices to provide energy-efficient arithmetic operations. However, scaling up analogue computing platforms by simply increasing the number of devices leads to challenges such as device-to-device variation. 
 
-Here we report scalable analogue computing and neural networks in the synthetic frequency domain using an integrated nonlinear phononic platform on lithium niobate {% cite ji2025synthetic %}. Our synthetic-domain computing is robust to device variations, as vectors and matrices are concurrently encoded at different frequencies within a single device, achieving a high throughput per area. Leveraging inherent nonlinearities, our device-aware neural network can perform a four-class classification task with an accuracy of 98.2%. Our synthetic-domain computing combines single-device parallelism, inherent nonlinearity and environmental stability, and could be of use in edge computing applications in which power efficiency and environmental resilience are crucial.
+We have pioneered the development of phononic analog computing architectures {% cite ji2025synthetic %} that use surface acoustic wave (SAW) and phononic crystal (PnC) resonators as information carriers for low-power, near-sensor processing. These devices exploit frequency-domain interference and nonlinear transduction to perform analog multiplication, filtering, and activation—enabling energy-efficient computation without digital conversion.
+
+Here we report scalable analogue computing and neural networks in the synthetic frequency domain using an integrated nonlinear phononic platform on lithium niobate . Our synthetic-domain computing is robust to device variations, as vectors and matrices are concurrently encoded at different frequencies within a single device, achieving a high throughput per area. Leveraging inherent nonlinearities, our device-aware neural network can perform a four-class classification task with an accuracy of 98.2%. Our synthetic-domain computing combines single-device parallelism, inherent nonlinearity and environmental stability, and could be of use in edge computing applications in which power efficiency and environmental resilience are crucial.
 
 #### Our phononic device to implement analog computing and neural networks.
 
