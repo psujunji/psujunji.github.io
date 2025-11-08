@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-research",
           title: "Research",
-          description: "Our interest in Acoustics spans from Hz to GHz and covers both their physics and applications.",
+          description: "Acoustics, from Hz to GHz, from fundamental physics to applications.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
