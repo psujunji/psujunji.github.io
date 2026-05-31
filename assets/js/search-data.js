@@ -429,7 +429,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_5/";
-            },},{id: "projects-phononic-analog-computing-and-edge-ai",
+            },},{id: "news-dr-jun-ji-gave-an-invited-seminar-talk-cavity-electro-acoustics-using-integrated-phononic-crystal-resonators-on-lithium-niobate-at-the-center-for-quantum-information-science-and-engineering-vtq-virginia-tech",
+          title: 'Dr. Jun Ji gave an invited seminar talk, “Cavity electro-acoustics using integrated phononic-crystal...',
+          description: "",
+          section: "News",},{id: "projects-phononic-analog-computing-and-edge-ai",
           title: 'Phononic Analog Computing and Edge AI',
           description: "",
           section: "Projects",handler: () => {
