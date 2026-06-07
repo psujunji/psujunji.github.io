@@ -9,9 +9,11 @@ giscus_comments: false
 related_publications: true
 ---
 
-Macroscopic devices that emulate atomic energy levels and transitions offer great opportunities in studying quantum electrodynamics (QED)-like processes and building quantum gate and circuits. Microwave-frequency mechanical systems hold great potentials in such applications owing to their small footprints, long coherence times, and versatile couplings to electromagnetic waves and qubit systems. 
+Macroscopic devices that emulate atomic energy levels and transitions offer great opportunities for studying quantum electrodynamics (QED)-like processes and building quantum gates and circuits. Microwave-frequency mechanical systems are especially promising because of their small footprints, long coherence times, and versatile couplings to electromagnetic waves and qubit systems.
 
-We present an on-chip cavity electro-acoustic dynamics platform  {% cite ji2025onchipcavityelectroacousticsusing %}  based on electrically-modulated phononic-crystal resonators on lithium niobate, enabling atomic-like control of discrete gigahertz phononic modes via electrical modulation. We demonstrate Autler–Townes splitting, a.c. Stark shifts, and Rabi oscillations. Leveraging three atomic-like modes, we further realize programmable non-reciprocal frequency conversion with isolation up to 20 dB by tailoring the modulation sequences.  
+In work published in *Physical Review Letters* {% cite ji2026onchipcavityelectroacousticsusing %}, we demonstrate an on-chip cavity electro-acoustic dynamics platform based on electrically modulated lithium niobate phononic-crystal resonators. The device confines discrete gigahertz phononic modes that emulate atomic energy levels, while electrical modulation drives transitions between those modes through the nonlinear piezoelectricity of lithium niobate.
+
+Using this platform, we observe Autler-Townes splitting, a.c. Stark shifts, and Rabi oscillations in an integrated acoustic system. By extending the control scheme to three atomic-like phononic modes, we further realize programmable non-reciprocal frequency conversion with isolation up to 20 dB by tailoring the modulation sequence and timing.
 
 
 #### Our on-chip cavity electro-acoustic dynamics platform
