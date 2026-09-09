@@ -672,15 +672,21 @@ footer.sticky-bottom {
     }
   }
 
-  .card {
+  .project-card {
     overflow: hidden;
 
-    figure {
+    .project-card-cover {
       display: block;
       width: 100%;
       height: 215px;
-      margin: 0;
       background: var(--global-bg-color);
+
+      figure {
+        display: block;
+        width: 100%;
+        height: 100%;
+        margin: 0;
+      }
     }
 
     img {
