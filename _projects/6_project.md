@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TBD
+title: Topological acoustics
 description: 
 img: assets/img/6.jpg
 importance: 6
