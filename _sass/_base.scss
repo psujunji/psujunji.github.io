@@ -49,6 +49,10 @@ table.table a {
   }
 }
 
+.news a strong {
+  color: inherit;
+}
+
 .table-dark {
   background-color: transparent;
   &.table-bordered {

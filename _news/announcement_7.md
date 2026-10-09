@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Dr. Jun Ji published his work on on-chip cavity electroacoustic dynamics in **Physical Review Letters**.
+Dr. Jun Ji published his work on on-chip cavity electroacoustic dynamics in [**Physical Review Letters**](https://journals.aps.org/prl/abstract/10.1103/hv6r-2ptj).
