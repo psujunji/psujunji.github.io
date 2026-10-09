@@ -435,8 +435,8 @@ ninja.data = [{
           section: "News",},{id: "news-dr-jun-ji-published-his-work-on-on-chip-cavity-electroacoustic-dynamics-in-physical-review-letters",
           title: 'Dr. Jun Ji published his work on on-chip cavity electroacoustic dynamics in Physical...',
           description: "",
-          section: "News",},{id: "projects-phononic-analog-computing-and-edge-ai",
-          title: 'Phononic Analog Computing and Edge AI',
+          section: "News",},{id: "projects-wave-based-computing",
+          title: 'Wave-based computing',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
@@ -460,8 +460,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-tbd",
-          title: 'TBD',
+            },},{id: "projects-topological-acoustics",
+          title: 'Topological acoustics',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
