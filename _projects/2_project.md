@@ -15,6 +15,8 @@ In work published in *Physical Review Letters* {% cite ji2026onchipcavityelectro
 
 Using this platform, we observe Autler-Townes splitting, a.c. Stark shifts, and Rabi oscillations in an integrated acoustic system. By extending the control scheme to three atomic-like phononic modes, we further realize programmable non-reciprocal frequency conversion with isolation up to 20 dB by tailoring the modulation sequence and timing.
 
+Our related theoretical and numerical study {% cite pour2026magnetfree %} explores magnet-free nonreciprocal frequency conversion using sequential temporal modulation.
+
 
 #### Our on-chip cavity electro-acoustic dynamics platform
 
